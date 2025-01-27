@@ -1,4 +1,4 @@
 <?php
 require('flag.php');
-vardump($_SERVER);
+print_r($_SERVER);
 ?>
